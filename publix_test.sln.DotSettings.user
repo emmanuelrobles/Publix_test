@@ -1,0 +1,14 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/Highlighting/HighlightingSourceSnapshotLocation/@EntryValue">/home/emmanuel/.cache/JetBrains/Rider2022.1/resharper-host/temp/Rider/vAny/CoverageData/_publix_test.919319569/Snapshot/snapshot.utdcvr</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6e38e028_002D3e6d_002D4ba6_002D9511_002D0649a598c4cd/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DemeritTests_valid(speedOverLimit: 10, speedDelta: 5, points: 2, expectedDemeritPoints: 4)" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::703729A9-BEE7-451F-9769-C7DAB9DB3E3B::net6.0::ApplicationUnitTest.DemeritHelperTests.DemeritTests_valid.DemeritTests_valid(speedOverLimit: 10, speedDelta: 5, points: 2, expectedDemeritPoints: 4)&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::703729A9-BEE7-451F-9769-C7DAB9DB3E3B::net6.0::ApplicationUnitTest.DemeritHelperTests.DemeritTests_valid.DemeritTests_valid(speedOverLimit: 10, speedDelta: 5, points: 1, expectedDemeritPoints: 2)&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c1f2dc28_002D3cfd_002D43e1_002Db81e_002Dadf8e65d7445/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DemeritHelperTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::703729A9-BEE7-451F-9769-C7DAB9DB3E3B::net6.0::ApplicationUnitTest.DemeritHelperTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::703729A9-BEE7-451F-9769-C7DAB9DB3E3B::net6.0::ApplicationUnitTest.ApplicationServiceTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
